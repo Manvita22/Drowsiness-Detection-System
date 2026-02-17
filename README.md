@@ -1,4 +1,4 @@
-# 🎉 Drowsiness Detection System - COMPLETE & READY TO USE
+#  Drowsiness Detection System 
 
 A real-time driver drowsiness detection system using OpenCV, CNN, and Keras that monitors driver eye status and alerts when drowsiness is detected.
 
@@ -399,30 +399,12 @@ Built with:
 - TensorFlow/Keras (deep learning)
 - Python (programming language)
 
----
-
-**Created**: January 2026  
-**Status**: ✅ Production Ready  
-**Last Updated**: January 8, 2026
-
 ## References
 
 - [OpenCV Cascade Classifiers](https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html)
 - [Keras CNN Documentation](https://keras.io/api/layers/convolution_layers/conv2d/)
 - [Haar Cascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
-## License
 
-This project is provided as-is for educational purposes.
 
-## Support
 
-For issues or questions:
-1. Check the Troubleshooting section
-2. Verify all dependencies are installed: `pip list | grep -E 'opencv|tensorflow|keras|pygame'`
-3. Ensure dataset is in correct location: `dataset_new/train/Closed` and `dataset_new/train/Open`
-
----
-
-**Created**: 2026
-**Last Updated**: January 2026
